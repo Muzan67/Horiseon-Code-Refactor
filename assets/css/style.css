@@ -4,12 +4,14 @@
   margin: 0;
 }
 
+/* Body */
 body {
   background-color: #d9dcd6;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
 
+/* Header */
 .header {
   padding: 20px;
   background-color: #2a607c;
@@ -86,7 +88,7 @@ p {
   background-color: #2589bd;
 }
 
-/* consolidated benefits */
+/* consolidated benefits into benefit_setting */
 .benefit-setting {
   margin-bottom: 32px;
   color: #ffffff;
@@ -105,7 +107,7 @@ p {
   max-width: 150px;
 }
 
-/* consolidated content into settings */
+/* consolidated contents into content_setting */
 .content_setting {
   margin-bottom: 20px;
   padding: 50px;

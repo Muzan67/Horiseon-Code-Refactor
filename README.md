@@ -1,20 +1,28 @@
 # Challenge-1
 
-## Description
-
-- My motivation for completing the assignment was to put in practice the tools and education that was given to me from my course. 
-- The reason for building and completing this project is to start my path as a professional web developer. 
-- We completed the request of the client which was to follow accessibility standards and in order to have their site optimized for performance. 
-- I learn that style plays an integral role in bring to life the HTML page and having proper structure and clean code and combining the same 
-CSS selectors and styles into one catergory makes it easier to read.  
+My motivation for completing the assignment was to put in practice the tools and education that was given to me from course 1 of the week.
+The reason for building and completing this project is to start my path as a professional web developer.
+We completed the request of the client which was to follow accessibility standards in order to have their site optimized for performance.
+I learn that CSS style plays an integral role in bringing to life the HTML page. Having proper structure and clean code while combining the same
+CSS selectors and styles into one catergory makes it easier to read.
 
 ## Installation
 
-The code was already in place. I followed the Scout Rule Which was to clean up and organize the code. Updating the code to a better format and structure for the next developer or someone else who may want to look at my code. 
+The code was already in place. I followed the Scout Rule Which was to clean up and organize the code. Updated the
+code to a better format and structure which will make it more accessable and easier for the next developer to look
+at my code and work.
+
+## Screenshot of Horiseon Assignment
+
+![Horiseon1](https://user-images.githubusercontent.com/102841726/181964875-1fac426c-3096-4f1d-b10a-11b08c6cde2e.png)
+
+![Horiseon2](https://user-images.githubusercontent.com/102841726/181965785-14c9b75a-4fce-4eb9-af35-52ef193b0d09.png)
+
+## Technologies Used
+
+- CSS
+- HTML
 
 ## Credits
 
-https://developer.chrome.com/docs/devtools/open/
-
-I used Chrome Developer Tools to ensure that what I had on my HTML was to my liking. 
-
+I used Chrome Developer Tools to ensure that what I had on my HTML was to my liking.
