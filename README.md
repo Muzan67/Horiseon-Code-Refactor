@@ -1,12 +1,12 @@
 # Deployed Application on Github
 https://muzan67.github.io/Challenge-1/
 
-# Horiseon: Code Refactor - Github Repository 
+# Horiseon-Code-Refactor - Github Repository 
 
 
-# HTML, CSS, and Git: Code Refactor
+# Horiseon-Code-Refactor: HTML, CSS, and Git: 
 We completed the request of the client which was to follow accessibility standards in order to have their site optimized for performance.
-I learn that CSS style plays an integral role in bringing to life the HTML page. Having proper structure and clean code while combining the same
+CSS style plays an integral role in bringing to life the HTML page. Having proper structure and clean code while combining the same
 CSS selectors and styles into one catergory makes it easier to read.
 
 ## Installation
@@ -22,10 +22,8 @@ at my code and work.
 ![Horiseon2](https://user-images.githubusercontent.com/102841726/181965785-14c9b75a-4fce-4eb9-af35-52ef193b0d09.png)
 
 ## Technologies Used
-
 - CSS
 - HTML
 
 ## Credits
-
 I used Chrome Developer Tools to ensure that what I had on my HTML was to my liking.
