@@ -1,3 +1,9 @@
+# Deployed Application on Github
+https://muzan67.github.io/Challenge-1/
+
+# Horiseon Github Repository 
+
+
 # Challenge-1
 
 My motivation for completing the assignment was to put in practice the tools and education that was given to me from course 1 of the week.
