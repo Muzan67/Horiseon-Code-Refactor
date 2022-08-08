@@ -1,13 +1,10 @@
 # Deployed Application on Github
 https://muzan67.github.io/Challenge-1/
 
-# Horiseon Github Repository 
+# Horiseon: Code Refactor - Github Repository 
 
 
-# Challenge-1
-
-My motivation for completing the assignment was to put in practice the tools and education that was given to me from course 1 of the week.
-The reason for building and completing this project is to start my path as a professional web developer.
+# HTML, CSS, and Git: Code Refactor
 We completed the request of the client which was to follow accessibility standards in order to have their site optimized for performance.
 I learn that CSS style plays an integral role in bringing to life the HTML page. Having proper structure and clean code while combining the same
 CSS selectors and styles into one catergory makes it easier to read.
