@@ -1,8 +1,8 @@
 # Deployed Application on Github
-https://muzan67.github.io/Challenge-1/
+https://muzan67.github.io/Horiseon-Code-Refactor/
 
 # Horiseon-Code-Refactor - Github Repository 
-
+https://github.com/Muzan67/Horiseon-Code-Refactor
 
 # Horiseon-Code-Refactor: HTML, CSS, and Git: 
 We completed the request of the client which was to follow accessibility standards in order to have their site optimized for performance.
@@ -10,7 +10,6 @@ CSS style plays an integral role in bringing to life the HTML page. Having prope
 CSS selectors and styles into one catergory makes it easier to read.
 
 ## Installation
-
 The code was already in place. I followed the Scout Rule Which was to clean up and organize the code. Updated the
 code to a better format and structure which will make it more accessable and easier for the next developer to look
 at my code and work.
